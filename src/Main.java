@@ -32,6 +32,6 @@ public class Main {
         System.out.println("----------end----------");
 
         // 6. Quadratic Equation
-        QuadraticEquation.QuadraticEquation();
+        QuadraticEquation.QuadraticEquationProgram();
     }
 }
