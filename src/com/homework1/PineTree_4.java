@@ -1,3 +1,5 @@
+package com.homework1;
+
 public class PineTree_4 {
     public static void pineTree() {
         for (int i = 0; i <= 5; i++) {

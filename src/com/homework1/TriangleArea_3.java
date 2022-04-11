@@ -1,3 +1,5 @@
+package com.homework1;
+
 public class TriangleArea_3 {
     public static void TriangleArea () {
         double a = 5;

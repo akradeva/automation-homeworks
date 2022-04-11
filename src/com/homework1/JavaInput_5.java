@@ -1,3 +1,5 @@
+package com.homework1;
+
 import java.util.Scanner;
 
 public class JavaInput_5 {

@@ -1,3 +1,5 @@
+package com.homework1;
+
 public class QuadraticEquation {
     public static void QuadraticEquationProgram () {
         System.out.println("a: 5");

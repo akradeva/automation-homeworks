@@ -1,3 +1,5 @@
+package com.homework1;
+
 public class StoreNames_1 {
     public static void PrintNames () {
         String firstName = "Anna-Kristina";

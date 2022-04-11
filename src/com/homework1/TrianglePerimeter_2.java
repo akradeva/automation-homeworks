@@ -1,3 +1,5 @@
+package com.homework1;
+
 public class TrianglePerimeter_2 {
     public static void TrianglePerimeter() {
         double a = 3;
