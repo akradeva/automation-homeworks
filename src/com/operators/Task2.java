@@ -13,9 +13,5 @@ public class Task2 {
         } else {
             System.out.println("You are NOT eligible to work.");
         }
-
-
-
-
     }
 }
