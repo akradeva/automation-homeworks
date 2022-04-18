@@ -1,6 +1,7 @@
 package com.dataStructures;
 
 public class Task2 {
+    // Print elements of a given 2-d matrix with 4 rows and 3 columns
     public static void main(String[] args) {
         int[][] arr = new int[4][3];
         arr[0][0] = 1;

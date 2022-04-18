@@ -3,9 +3,8 @@ package com.dataStructures;
 import java.util.Scanner;
 
 public class Task3 {
+    // Print elements of a given 2-d matrix with dynamic rows and columns taken from user input
     public static void main(String[] args) {
-
-        // Print elements of a given 2-d matrix with dynamic rows and columns taken from user input
 
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Enter the number of the rows: ");
