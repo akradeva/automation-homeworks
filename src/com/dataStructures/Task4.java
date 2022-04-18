@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class Task4 {
-    //Find biggest element of an array and print it in the console
+    //Find the biggest element of an array and print it in the console
 
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
